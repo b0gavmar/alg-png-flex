@@ -1,0 +1,21 @@
+div{
+    width: 100%;
+}
+
+.kek>.p-header{
+    margin: 0;
+    padding: 2px;
+}
+
+.sarga>.p-header{
+    background-color: orange;
+    margin: 0;
+
+}
+
+.kek{
+    border: aqua 1px solid;
+    border-radius: 12px;
+    padding: 0%;
+    background-color: aqua;
+}
